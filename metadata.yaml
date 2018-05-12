@@ -14,6 +14,8 @@ creator:
     - http://www.english.eku.edu/services/kylit/buck.htm
     - http://www.gutenberg.org/browse/authors/l#a36873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33759#The-Key-to-Yesterday
 gutenberg_issued: '2010-09-19'
 gutenberg_type: Text
 identifiers:
